@@ -1,0 +1,5 @@
+**/*.pyc
+# not sure what this file is but looks like it's a database so not committing it I guess
+db.sqlite3
+# Put your credentials in here; don't commit it
+.env
